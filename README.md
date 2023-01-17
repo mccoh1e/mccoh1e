@@ -3,4 +3,6 @@
 
 Hi 👋 Here are some staff that can be exciting for any PM 📋🏆⌚(*placed materials relate to only unprotected by NDA projects*)
 
-Just take a look 
+Just take a look 🔎
+
+[PRD](https://github.com/mccoh1e/Beyond-Energy#readme) 📂 [Specification](https://github.com/mccoh1e/Beyond-Energy#readme)
