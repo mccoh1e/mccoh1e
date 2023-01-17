@@ -5,4 +5,4 @@ Hi 👋 Here are some examples of how I make PM's staff ⌚📋(*placed material
 
 Just take a look 🔎
 
-📂 [PRD [EU]](https://github.com/mccoh1e/Beyond-Energy#readme) 📕 [Specification [EU]](https://github.com/mccoh1e/Beyond-Energy#readme)
+📂 [PRD [EU]](https://github.com/mccoh1e/Feedster/tree/main) 📕 [Specification [EU]](https://github.com/mccoh1e/Beyond-Energy#readme)
