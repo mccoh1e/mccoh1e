@@ -5,4 +5,4 @@ Hi 👋 Here are some examples of how I make PM's staff ⌚📋(*placed material
 
 Just take a look 🔎
 
-📂 [PRD [EU]](https://github.com/mccoh1e/Feedster/tree/main) 📕 [Specification [EU]](https://github.com/mccoh1e/Beyond-Energy#readme)
+📜 [User Stories](https://github.com/mccoh1e/My-Palace-Portal) 📂 [PRD](https://github.com/mccoh1e/Feedster/tree/main) 🔧 [Workflow Management](https://github.com/mccoh1e/Workflow-Management) 📘 [Specification [EU]](https://github.com/mccoh1e/Beyond-Energy#readme) 📒 [Specification [UA]](https://github.com/mccoh1e/Likimap) 🎯 [Technical Presentation](https://github.com/mccoh1e/Finagic)
